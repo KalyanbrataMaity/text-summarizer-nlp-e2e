@@ -11,5 +11,4 @@ PyYAML
 matplotlib
 torch
 notebook
-
--e .
+-e . --config-settings editable_mode=compat
